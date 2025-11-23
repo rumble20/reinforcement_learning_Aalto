@@ -202,13 +202,11 @@ cython_debug/
 .cursorindexingignore
 
 #Feedbacks
-ex1/feedback/
-ex2/feedback/
-ex3/feedback/
-ex4/feedback/
-ex5/feedback/
-ex6/feedback/
-project/feedback/
+ex1/feedback/2025-09-14 15:29:28.169432 EEST
+ex2/feedback/2025-09-22 17:22:12.432745 EEST
+ex3/feedback/2025-09-27 23:23:23.097694 EEST
+ex4/feedback/2025-10-03 13:15:15.164533 EEST
+ex6/feedback/2025-10-20 22:43:13.895861 EEST
 
 # Marimo
 marimo/_static/
